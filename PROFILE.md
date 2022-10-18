@@ -1,2 +1,3 @@
 Welcome to my GitHub profile!
-Hobart
+Hobart, TAS
+Business Data Science
